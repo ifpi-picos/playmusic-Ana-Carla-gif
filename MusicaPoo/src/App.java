@@ -14,9 +14,9 @@ public class App {
         
         // Adicionando músicas
         Musica musica1 = new Musica("Cidade Vizinha", "Sertanejo", 
-            "MusicaPoo/src/assets/cancao/henriqueejulianooficial-cidade-vizinha-9f59e1e5.wav", 179);
-        Musica musica2 = new Musica("Coração de aço", "Hip Hop", 
-            "MusicaPoo/src/assets/cancao/hungriahiphop-coracao-de-aco-wwwpalcomp3comdjmixer-djmixeroficial-7f241d60.wav", 244);
+            "playmusic-Ana-Carla-gif/MusicaPoo/src/assets/cancao/henriqueejulianooficial-cidade-vizinha-9f59e1e5.wav",178);
+        Musica musica2 = new Musica("Coração de aço", "Hip Hop",
+            "playmusic-Ana-Carla-gif/MusicaPoo/src/assets/cancao/hungriahiphop-coracao-de-aco-wwwpalcomp3comdjmixer-djmixeroficial-7f241d60.wav", 244);
 
         musicas.add(musica1);
         musicas.add(musica2);
